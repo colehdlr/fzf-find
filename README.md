@@ -1,5 +1,5 @@
 # fzf-find.nvim - make :find fast
-Simple FZF implementation for :find in Neovim.
+Simple FZF upgrade for :find in Neovim.
 
 ### Requirements
 * Neovim 0.11+
